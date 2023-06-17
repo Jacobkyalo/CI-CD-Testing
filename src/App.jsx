@@ -1,3 +1,4 @@
+import TestComponent from "./components/TestComponent";
 import "./App.css";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <h1>CI/CD Testing</h1>
       <p>Deployment using GitHub Actions.</p>
+      <TestComponent />
     </>
   );
 }
