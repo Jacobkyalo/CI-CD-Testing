@@ -9,6 +9,7 @@ function App() {
     <>
       <h1>CI/CD Testing</h1>
       <p>Deployment using GitHub Actions.</p>
+      <p>Enjoy Learning</p>
     </>
   );
 }
