@@ -1,9 +1,9 @@
 import "./App.css";
 
 function App() {
-  const printName = (name) => {
-    console.log(name);
-  };
+  // const printName = (name) => {
+  //   console.log(name);
+  // };
 
   return (
     <>
